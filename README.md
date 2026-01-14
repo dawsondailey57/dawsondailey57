@@ -1,2 +1,1 @@
-## CS grad pivoting into Data Analytics
-# Skills:
+# CS grad pivoting into Data Analytics
